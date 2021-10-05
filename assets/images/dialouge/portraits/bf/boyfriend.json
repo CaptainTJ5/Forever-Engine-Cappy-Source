@@ -1,0 +1,14 @@
+{
+    "name": "boyfriend",
+    "expressions": {
+        "normal": "BF Portrait Enter instance 1"
+    },
+    "position": [800, 195],
+    "scale": 5.4,
+    "antialiasing": false,
+    "loop": false,
+
+    "sounds": ["pixelText"],
+    "soundChance": 100,
+    "soundPath": "sounds/"
+}

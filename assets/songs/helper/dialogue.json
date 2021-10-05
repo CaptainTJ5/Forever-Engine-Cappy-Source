@@ -1,0 +1,32 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "cappy",
+            "expression": "normal",
+            "text": "Excuse me, would you happen to be 'Boyfriend'?"
+        },
+        {
+            "portrait": "boyfriend",
+            "text": "Beep!"
+        },
+        {
+            "portrait": "cappy",
+	    "expression": "normal",
+            "text": "Oh, great! I got word that there was a blue haired boy \ngoing around town looking to rap."
+        },
+	{
+	    "text": "I'm not all that good at rapping, but do you care to rap with me?"
+	},
+	{
+            "portrait": "boyfriend",
+            "text": "Beep bo bap."
+	},
+	{
+            "portrait": "cappy",
+            "expression": "normal",
+            "text": "Alright, here we go."
+	}
+    ]
+}
